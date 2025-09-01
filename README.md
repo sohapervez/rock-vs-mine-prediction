@@ -23,7 +23,7 @@ pip install numpy pandas scikit-learn
 git clone https://github.com/your_username/rock-vs-mine-prediction.git
 cd rock-vs-mine-prediction
 
-2- Make sure the dataset (Copy of sonar data.csv) is placed in the same directory or update the path inside the script.
+2- Make sure the dataset ([Copy of sonar data.csv](https://drive.google.com/file/d/1pQxtljlNVh0DHYg-Ye7dtpDTlFceHVfa/view)) is placed in the same directory or update the path inside the script.
 
 3- Run the script:
 python rock_vs_mine_prediction.py
